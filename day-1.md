@@ -16,3 +16,13 @@
 def hello_markdown():
     print("Hello, Markdown!")
 ```
+
+## 今日配图
+
+![GitHub Octocat](https://octodex.github.com/images/Professortocat_v2.png)
+
+这是我第二喜欢的Octocat形象，教授猫。
+
+<img src="https://octodex.github.com/images/minion.png" alt="Minion Octocat" width="400"/>
+
+这个是我第一喜欢的Octocat形象，小黄人猫。
