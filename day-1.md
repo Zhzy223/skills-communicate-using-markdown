@@ -9,3 +9,10 @@
 - [x] 继续使用Markdown来记录我的学习日志
 - [ ] 尝试添加一些图片和链接来丰富我的笔记内容
 - [ ] 学习如何使用Markdown的表格功能
+
+## 代码块
+
+```python
+def hello_markdown():
+    print("Hello, Markdown!")
+```
